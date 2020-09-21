@@ -1769,47 +1769,14 @@ F 3 "" H 9100 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H1
+L Mechanical:MountingHole H?
 U 1 1 5F98BD2B
 P 14600 8400
-F 0 "H1" H 14700 8446 50  0000 L CNN
+F 0 "H?" H 14700 8446 50  0000 L CNN
 F 1 "MountingHole" H 14700 8355 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 14600 8400 50  0001 C CNN
+F 2 "MountingHole:MountingHole_5mm" H 14600 8400 50  0001 C CNN
 F 3 "~" H 14600 8400 50  0001 C CNN
 	1    14600 8400
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H2
-U 1 1 5F9C3D14
-P 14600 8600
-F 0 "H2" H 14700 8646 50  0000 L CNN
-F 1 "MountingHole" H 14700 8555 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 14600 8600 50  0001 C CNN
-F 3 "~" H 14600 8600 50  0001 C CNN
-	1    14600 8600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H3
-U 1 1 5F9C3FC2
-P 14600 8800
-F 0 "H3" H 14700 8846 50  0000 L CNN
-F 1 "MountingHole" H 14700 8755 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 14600 8800 50  0001 C CNN
-F 3 "~" H 14600 8800 50  0001 C CNN
-	1    14600 8800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H4
-U 1 1 5F9C432B
-P 14600 9000
-F 0 "H4" H 14700 9046 50  0000 L CNN
-F 1 "MountingHole" H 14700 8955 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 14600 9000 50  0001 C CNN
-F 3 "~" H 14600 9000 50  0001 C CNN
-	1    14600 9000
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
